@@ -11,9 +11,9 @@ export const TIMING = Object.freeze({
 export const ASSETS = Object.freeze({
   "view-1": {
     desktop:
-      "https://cdn.prod.website-files.com/69b060726c9c10d0cebbf5f3/69b06678707c7b74a524f9f4_Data-View-1.webp",
+      "https://cdn.prod.website-files.com/6a395067d36279ee102c060a/6a395bdb5143048565140f0c_e9ce8e0c1af9be47b3da689f973d8665_Comps%20View-Start%20Shot%20%28with%20comps%29.webp",
     mobile:
-      "https://cdn.prod.website-files.com/69b060726c9c10d0cebbf5f3/69b066780bffd055268006d5_Data-View-1-MP.webp",
+      "https://cdn.prod.website-files.com/6a395067d36279ee102c060a/6a395bdbe2e7d262648b987a_e17b7a873d62390814f8ad549c35eb5d_Comps%20View-Start%20Shot-MP%20%28with%20comps%29.webp",
   },
   "view-2": {
     desktop:
@@ -42,3 +42,4 @@ export const VIEW_START_END = Object.freeze({
     endTime: 5.65,
   },
 });
+export const LOOP_SEQUENCE_VIDS = true;
