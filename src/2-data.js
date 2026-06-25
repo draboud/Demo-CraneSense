@@ -51,8 +51,8 @@ class Data {
       ["view-1-mp", ASSETS["view-1"].mobile],
       ["view-2", ASSETS["view-2"].desktop],
       ["view-2-mp", ASSETS["view-2"].mobile],
-      ["view-3", ASSETS["view-3"].desktop],
-      ["view-3-mp", ASSETS["view-3"].mobile],
+      // ["view-3", ASSETS["view-3"].desktop],
+      // ["view-3-mp", ASSETS["view-3"].mobile],
     ]);
   }
   //.......................................................................

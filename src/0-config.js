@@ -17,29 +17,19 @@ export const ASSETS = Object.freeze({
   },
   "view-2": {
     desktop:
-      "https://cdn.prod.website-files.com/69b060726c9c10d0cebbf5f3/69b066788514192dd118f92e_Data-View-2.webp",
+      "https://cdn.prod.website-files.com/6a395067d36279ee102c060a/6a3bdbbb958d98202a2e32f2_8cdf9d0fd2e7f78cec1523e74dbe4de4_View-2.png",
     mobile:
-      "https://cdn.prod.website-files.com/69b060726c9c10d0cebbf5f3/69b06678f95e3f4b347c21a6_Data-View-2-MP.webp",
-  },
-  "view-3": {
-    desktop:
-      "https://cdn.prod.website-files.com/69b060726c9c10d0cebbf5f3/69b06678663d4800cc5f9935_Data-View-3.webp",
-    mobile:
-      "https://cdn.prod.website-files.com/69b060726c9c10d0cebbf5f3/69b066785c709890f1f02679_Data-View-3-MP.webp",
+      "https://cdn.prod.website-files.com/6a395067d36279ee102c060a/6a3c409a1e19b544abe4a6e7_292e31508f45ed170de4bf297b590c93_View-2-MP.png",
   },
 });
 export const VIEW_START_END = Object.freeze({
   "view-1": {
     startTime: 0,
-    endTime: 0,
+    endTime: 3,
   },
   "view-2": {
-    startTime: 1.48,
-    endTime: 2.69,
-  },
-  "view-3": {
-    startTime: 4.44,
-    endTime: 5.65,
+    startTime: 3.24,
+    endTime: 6.2,
   },
 });
 export const LOOP_SEQUENCE_VIDS = true;
